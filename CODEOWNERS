@@ -1,0 +1,3 @@
+*.ts @vanderleymaia
+*.css @vanderleymaia
+/.docker/ @vanderleymaia
